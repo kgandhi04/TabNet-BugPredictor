@@ -1,1 +1,0 @@
-https://github.com/YousefGh/software_bug_prediction/blob/master/ML_Project_.ipynb
